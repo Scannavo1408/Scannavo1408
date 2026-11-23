@@ -12,6 +12,8 @@ Los videos los subo a [LinkedIn](https://www.linkedin.com/in/mrscannavo), y aqu�
 
 #### 🚦 Semáforos inteligentes &nbsp;![Estado: editando el video](https://img.shields.io/badge/editando%20el%20video-F2C94C?style=flat-square)
 
+<img src="assets/semaforos-demo.gif" alt="Demo de detección de autos con YOLO en un cruce de Panamá" width="100%"/>
+
 La historia de los semáforos inteligentes en Panamá: desde la versión de 2005 hasta la propuesta con cámaras e IA de 2026, con demos de detección usando YOLO.
 
 `Python` `YOLO` `three.js`
