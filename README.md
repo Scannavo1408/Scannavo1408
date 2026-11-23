@@ -10,8 +10,22 @@ Los videos los subo a [LinkedIn](https://www.linkedin.com/in/mrscannavo), y aqu�
 
 ### Lo que viene
 
-- 🚦 **Semáforos inteligentes en Panamá:** un video sobre la historia de los semáforos inteligentes en la ciudad, desde la versión de 2005 hasta la propuesta con cámaras e IA de 2026, con demos de detección usando YOLO.
-- 🌫️ **AirQA:** un medidor de calidad del aire hecho por mí, con un sensor SEN65. La idea es armar el dispositivo, recoger datos y mostrarlos. Estoy esperando que me lleguen las piezas.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚦 Semáforos inteligentes</h3>
+      <img src="https://img.shields.io/badge/estado-editando%20el%20video-F2C94C?style=flat-square" alt="Estado: editando el video"/>
+      <p>La historia de los semáforos inteligentes en Panamá: desde la versión de 2005 hasta la propuesta con cámaras e IA de 2026, con demos de detección usando YOLO.</p>
+      <p><code>Python</code> <code>YOLO</code> <code>three.js</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌫️ AirQA</h3>
+      <img src="https://img.shields.io/badge/estado-esperando%20piezas-8E8E8E?style=flat-square" alt="Estado: esperando piezas"/>
+      <p>Un medidor de calidad del aire hecho por mí, con un sensor SEN65. La idea es armar el dispositivo, recoger datos y mostrarlos.</p>
+      <p><code>Hardware</code> <code>Sensores</code> <code>Datos</code></p>
+    </td>
+  </tr>
+</table>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
