@@ -22,6 +22,8 @@ La historia de los semáforos inteligentes en Panamá: desde la versión de 2005
 
 #### 🌫️ AirQA &nbsp;![Estado: esperando piezas](https://img.shields.io/badge/esperando%20piezas-8E8E8E?style=flat-square)
 
+<img src="assets/airqa-3d.gif" alt="Modelo 3D de AirQA: caja de electrónica que se abre, abrigo ventilado con el sensor SEN65 y flujo de aire" width="100%"/>
+
 Un medidor de calidad del aire hecho por mí, con un sensor SEN65. La idea es armar el dispositivo, recoger datos y mostrarlos.
 
 `Hardware` `Sensores` `Datos`
