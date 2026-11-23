@@ -2,11 +2,16 @@
 
 Soy desarrollador y vivo en Ciudad de Panamá.
 
-Hace tiempo que veo cómo en la ciudad se lanzan proyectos de tecnología que le deberia de interesar a la gente: las cámaras fotomultas, los semáforos inteligentes... Y siempre me quedo pensando en que tengo una idea bastante clara de cómo están hechos por dentro.
+Hace tiempo que veo cómo en la ciudad se lanzan proyectos de tecnología que le debería interesar a la gente: las cámaras fotomultas, los semáforos inteligentes... Y siempre me quedo pensando en que tengo una idea bastante clara de cómo están hechos por dentro.
 
 Así que decidí hablar sobre ellos, aunque sea a una escala más pequeña, y mostrar el proceso. La idea es que cualquiera pueda entenderlo, sepa o no de programación.
 
-Casi todo lo hago con Python, OpenCV y YOLO, y voy subiendo los avances a [LinkedIn](https://www.linkedin.com/in/mrscannavo).
+Los videos los subo a [LinkedIn](https://www.linkedin.com/in/mrscannavo), y aquí en GitHub dejo el código de cada proyecto para quien quiera verlo por dentro.
+
+### Lo que viene
+
+- 🚦 **Semáforos inteligentes en Panamá:** un video sobre la historia de los semáforos inteligentes en la ciudad, desde la versión de 2005 hasta la propuesta con cámaras e IA de 2026, con demos de detección usando YOLO.
+- 🌫️ **AirQA:** un medidor de calidad del aire hecho por mí, con un sensor SEN65. La idea es armar el dispositivo, recoger datos y mostrarlos. Estoy esperando que me lleguen las piezas.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
