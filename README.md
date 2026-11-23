@@ -16,6 +16,8 @@ La historia de los semáforos inteligentes en Panamá: desde la versión de 2005
 
 `Python` `YOLO` `three.js`
 
+---
+
 #### 🌫️ AirQA &nbsp;![Estado: esperando piezas](https://img.shields.io/badge/esperando%20piezas-8E8E8E?style=flat-square)
 
 Un medidor de calidad del aire hecho por mí, con un sensor SEN65. La idea es armar el dispositivo, recoger datos y mostrarlos.
