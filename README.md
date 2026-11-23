@@ -2,9 +2,9 @@
 
 Soy desarrollador y vivo en Ciudad de Panamá.
 
-Hace tiempo que veo cómo en mi ciudad se lanzan proyectos de tecnología que le interesan a todo el mundo: las cámaras fotomultas, los semáforos inteligentes... Y siempre me quedo pensando en que tengo una idea bastante clara de cómo están hechos por dentro.
+Hace tiempo que veo cómo en la ciudad se lanzan proyectos de tecnología que le deberia de interesar a la gente: las cámaras fotomultas, los semáforos inteligentes... Y siempre me quedo pensando en que tengo una idea bastante clara de cómo están hechos por dentro.
 
-Así que decidí construirlos yo mismo, aunque sea a una escala más pequeña, y mostrar el proceso. La idea es que cualquiera pueda entenderlo, sepa o no de programación.
+Así que decidí hablar sobre ellos, aunque sea a una escala más pequeña, y mostrar el proceso. La idea es que cualquiera pueda entenderlo, sepa o no de programación.
 
 Casi todo lo hago con Python, OpenCV y YOLO, y voy subiendo los avances a [LinkedIn](https://www.linkedin.com/in/mrscannavo).
 
